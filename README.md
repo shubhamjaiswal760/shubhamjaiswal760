@@ -52,7 +52,7 @@
 
 
 
-**[QuickChat](https://github.com/shubhamjaiswal760/QuickChat)** 
+**[🔥 QuickChat](https://github.com/shubhamjaiswal760/QuickChat)** 
 
 
 
@@ -73,7 +73,7 @@ _A real-time chat application that connects users nationally and internationally
 
 ---
 
-**[MediConnect](https://github.com/shubhamjaiswal760/MediConnect)**  
+**[🚑MediConnect](https://github.com/shubhamjaiswal760/MediConnect)**  
 
 
 
