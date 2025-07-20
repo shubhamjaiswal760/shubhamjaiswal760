@@ -11,7 +11,7 @@
 
 ###
 
-<h2 align="left">🛠️ I code with</h2>
+<h2 align="left">🛠️ Language and Tools</h2>
 
 ###
 
@@ -57,8 +57,10 @@
 
 _A real-time chat application that connects users nationally and internationally, breaking down language barriers with instant messaging and on-the-fly translation._
 
+<!--
 ![App Screenshot](https://github.com/shubhamjaiswal760/EasyChat/blob/081d5bcdb42482ae03b835e91ca0ebab02ca9534/ss1.png?raw=true)
 ![App Screenshot](https://github.com/shubhamjaiswal760/EasyChat/blob/main/ss2.png?raw=true)
+-->
 
 ---
 
@@ -66,12 +68,23 @@ _A real-time chat application that connects users nationally and internationally
 
 _A comprehensive full-stack telemedicine platform that facilitates seamless healthcare management through three distinct user interfaces - Patient Portal, Doctor Dashboard, and Admin Panel._
 
+<!--
+
 ![App Screenshot](https://github.com/shubhamjaiswal760/music/blob/main/admin1.png?raw=true)
 ![App Screenshot](https://github.com/shubhamjaiswal760/music/blob/main/admin2.png?raw=true)
 ![App Screenshot](https://github.com/shubhamjaiswal760/music/blob/main/doc1.png?raw=true)
 ![App Screenshot](https://github.com/shubhamjaiswal760/music/blob/main/doc2.png?raw=true)
 ![App Screenshot](https://github.com/shubhamjaiswal760/music/blob/main/patient1.png?raw=true)
 ![App Screenshot](https://github.com/shubhamjaiswal760/music/blob/main/patient2.png?raw=true)
+
+-->
+
+---
+
+### 💸 [SplitExpenses](https://github.com/shubhamjaiswal760/SplitExpenses)  
+
+_A full-stack web application for tracking and splitting expenses with friends in real time. Built with React.js, TailwindCSS, Node.js, Express.js, and MongoDB._
+
 
 ---
 
